@@ -1,0 +1,25 @@
+[33mcommit a1ae84c726fd0088e81d93e52c2644469eec1eff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: carldewil <carlos.eduardo@teste.com>
+Date:   Sat Jun 29 22:32:59 2024 -0300
+
+    Inclusão de changelog.md
+
+[33mcommit 7c7aa7664703e58fbb00254140b42efb07c7a222[m
+Author: carldewil <carlos.eduardo@teste.com>
+Date:   Sat Jun 29 21:58:45 2024 -0300
+
+    colocando acentuação no arquivo2.txt
+
+[33mcommit d614028effcc6a7fa4b6f0555a88c0bc322314ec[m
+Author: carldewil <carlos.eduardo@teste.com>
+Date:   Sat Jun 29 21:56:03 2024 -0300
+
+    Alterando o conteúo de arquivo2.txt
+
+[33mcommit edad395f1b13aadf6b597f756c57cfc99b8ff29b[m
+Author: carldewil <carlos.eduardo@teste.com>
+Date:   Sat Jun 29 21:38:32 2024 -0300
+
+    Inclusão de novos arquivos
+    
+    Inclusão dos arquivos: arquivo.txt e arquivo2.txt
